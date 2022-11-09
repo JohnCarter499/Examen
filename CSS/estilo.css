@@ -1,0 +1,55 @@
+html{
+    font-size: 80.5%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:gray ;
+    margin: 1rem;
+    
+}
+
+div .Box{
+    max-width: 1;
+    align-items: center;
+}
+
+body .Encabezado{
+    text-align:center ;
+    margin: 1rem;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.CantidadP{
+    text-align: center;
+}
+
+div .p1{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+div .p2{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+div .p3{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    text-align: center;
+    margin: auto;
+}
+
+body .CantidadP{
+    align-items: center;
+}
